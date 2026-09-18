@@ -1,0 +1,200 @@
+[
+  {
+    "key": "headerDesktop",
+    "path": "backgrounds/header-xiangyang-desktop.webp",
+    "bytes": 98644,
+    "sha256": "9c1be0e1b1675815ea13a2496c419246c1929aba7697723e2c7442e54d79be13"
+  },
+  {
+    "key": "headerMobile",
+    "path": "backgrounds/header-xiangyang-mobile.webp",
+    "bytes": 52484,
+    "sha256": "6fa50cc400064a17913aedfa5a10d25fe5d1395d7cbc95e7e86a5c9a55b8b263"
+  },
+  {
+    "key": "darkPanel",
+    "path": "backgrounds/texture-dark-panel.webp",
+    "bytes": 39654,
+    "sha256": "9caf7a5723048c469f74cd2c33e2fbd97f80860523361faa723f74465f5c7add"
+  },
+  {
+    "key": "paper",
+    "path": "backgrounds/texture-paper.webp",
+    "bytes": 38488,
+    "sha256": "0a5234fbb4ef28ae0a400438ba69967b5183e464b6ac1a9b4cb7c6284510b52a"
+  },
+  {
+    "key": "inkLandscape",
+    "path": "landscapes/ornament-ink-landscape.webp",
+    "bytes": 164960,
+    "sha256": "f2ff6a5c17f9feb38c68a51e6c6ab60b2d74367f9879e4c22b3b9cb8cbc3aa87"
+  },
+  {
+    "key": "relationshipEncounter",
+    "path": "landscapes/relationship-encounter-v1.webp",
+    "bytes": 170512,
+    "sha256": "9afa8d1a88d1325f2ab19cf4ca4668753e95e2fd490276593eda3a6b95f36999"
+  },
+  {
+    "key": "martialLandscape",
+    "path": "landscapes/martial-landscape-v1.webp",
+    "bytes": 265728,
+    "sha256": "ec7077833a18ff0738892c1c331a1d7fae8a35037852271f33b1773a0e6e7b53"
+  },
+  {
+    "key": "memoryLandscape",
+    "path": "landscapes/memory-landscape-v2.webp",
+    "bytes": 729496,
+    "sha256": "a26e233b25df7e3980716a4191ff2eb74ac1ac49f6b118991c263e280d433c98"
+  },
+  {
+    "key": "footerMountains",
+    "path": "landscapes/footer-mountains-v1.webp",
+    "bytes": 37098,
+    "sha256": "f69c4feedb32c93c13ef989f8a73cf023556cabf13f0a08829dff4e0a2c8b49d"
+  },
+  {
+    "key": "dividerGold",
+    "path": "frames/divider-gold.webp",
+    "bytes": 11888,
+    "sha256": "e6eeff06b5328df1e35acb48d34ef14a7f6a511b58c3b306cd80a828ab1bf6a7"
+  },
+  {
+    "key": "frameCorner",
+    "path": "frames/frame-corner.webp",
+    "bytes": 14900,
+    "sha256": "b9167e12bd01951379412d22af445a63c18e5ca9c9ace00225d69f30890dd15b"
+  },
+  {
+    "key": "frameEdgeHorizontal",
+    "path": "frames/frame-edge-horizontal.webp",
+    "bytes": 26552,
+    "sha256": "9566ab9f56a6294bbcc0d9ecee9037c8e3cb7d26963f6f4ca2b588750aa1928e"
+  },
+  {
+    "key": "framePillar",
+    "path": "frames/frame-pillar.webp",
+    "bytes": 24920,
+    "sha256": "e2dcb294f3d4064096ffd6a7d7eba89232bc5d4dc09840c1f10cbb2cd0ea19d0"
+  },
+  {
+    "key": "innerCorner",
+    "path": "frames/inner-corner-v2.webp",
+    "bytes": 20114,
+    "sha256": "410e64852ecab1704af9cb5d31dfa919d0b231aac2190eef6f96446de0844452"
+  },
+  {
+    "key": "railTop",
+    "path": "frames/inner-rail-top-v2.webp",
+    "bytes": 4478,
+    "sha256": "9b6ea86977191a826d7b0575350a3d12d29b4730b0d296ef774736086a661186"
+  },
+  {
+    "key": "railMiddle",
+    "path": "frames/inner-rail-middle-v2.webp",
+    "bytes": 7632,
+    "sha256": "bdb5dd94d7fd0df98c9ad0b77553e3165d9461ca6f99321196eb4fa813f63803"
+  },
+  {
+    "key": "railBottom",
+    "path": "frames/inner-rail-bottom-v2.webp",
+    "bytes": 4894,
+    "sha256": "e21ece0a37d57fadc61986df012dca13a13e151b841970ad94f728e2694b4ebf"
+  },
+  {
+    "key": "jadePendant",
+    "path": "ornaments/ornament-jade-pendant.webp",
+    "bytes": 49780,
+    "sha256": "64137d8b8fdd8fa8abc779334333ff21ef3b7c06463c943e3b6b9d10607b38bb"
+  },
+  {
+    "key": "pendantLong",
+    "path": "ornaments/pendant-long-v2.webp",
+    "bytes": 64774,
+    "sha256": "5a4f1dddeae631024da45ae9dff6f0f2bfe38e38f473853d231458df8fdb4392"
+  },
+  {
+    "key": "peachBranch",
+    "path": "ornaments/ornament-peach-branch.webp",
+    "bytes": 55760,
+    "sha256": "9663ae1dce9077266292260cb9e923879adf0f4e1159a5e51831a4879d1d06bc"
+  },
+  {
+    "key": "peachFooter",
+    "path": "ornaments/peach-footer-v2.webp",
+    "bytes": 44574,
+    "sha256": "730365f7b7077764bff4af1b84aee8926228c947ed31f933f23c9e06dc769bf5"
+  },
+  {
+    "key": "martialOrnament",
+    "path": "ornaments/martial-ornament-v1.webp",
+    "bytes": 16176,
+    "sha256": "ab47607d70934da1b9e5174a1a9da12079b55b71150cee2ea08693a7a408c8f4"
+  },
+  {
+    "key": "memoryOrnament",
+    "path": "ornaments/memory-ornament-v1.webp",
+    "bytes": 33084,
+    "sha256": "023bb6dd2f276101d54313830fcd6b8c7f9f91b3c98bd0220352e91e1e051443"
+  },
+  {
+    "key": "headerCitySign",
+    "path": "ornaments/header-xiangyang-sign-v1.webp",
+    "bytes": 18456,
+    "sha256": "82dd700cf2cc668eec1b4ac3507a3c16f6acb9030f0fc1d2a2fa82e4ea4c1ae7"
+  },
+  {
+    "key": "buttonJade",
+    "path": "controls/button-jade.webp",
+    "bytes": 18348,
+    "sha256": "bacae42aa93567f4369c30d02d46876b40aeb717874a74f6fd6aea157a26642c"
+  },
+  {
+    "key": "buttonCinnabar",
+    "path": "controls/button-cinnabar-v1.webp",
+    "bytes": 10740,
+    "sha256": "1750a59ca89140ce173945907116ed4883fd377992885ef6b9870358e33cab54"
+  },
+  {
+    "key": "tabJade",
+    "path": "controls/tab-jade.webp",
+    "bytes": 13916,
+    "sha256": "731e5f41abd8c5557db487995986029fd4779b9444559db3d7eae8ff971769ca"
+  },
+  {
+    "key": "tabActive",
+    "path": "controls/tab-active-v2.webp",
+    "bytes": 41866,
+    "sha256": "43692198d4ee833d6e0336810aecb0e2098d9a2635b772e4b1939d9ce18094d1"
+  },
+  {
+    "key": "labelCinnabar",
+    "path": "labels/label-cinnabar.webp",
+    "bytes": 29378,
+    "sha256": "285833cebd4660d8f11ecbfb51b2c013e0f3cb5bfbbba067a8e26d8eca845998"
+  },
+  {
+    "key": "titleBrush",
+    "path": "labels/title-brush-v2.webp",
+    "bytes": 29104,
+    "sha256": "14f3e5c38ec2cb751ae69caaf5ae6b5c20144669ab53ed7d92c5113e2d277132"
+  },
+  {
+    "key": "headingSilk",
+    "path": "labels/heading-silk-v1.webp",
+    "bytes": 29368,
+    "sha256": "1c04e73afcae7cdead6a177704bd4dd935afca693bcd082b6ef49b8c77a24600"
+  },
+  {
+    "key": "characterNameplate",
+    "path": "labels/character-nameplate-v1.webp",
+    "bytes": 65884,
+    "sha256": "32dd307d3e51a576f2a6d644080034b2fe0e201ecff8d662b05dcf3c9f1f0baa"
+  },
+  {
+    "key": "sealCinnabar",
+    "path": "labels/seal-cinnabar-v2.webp",
+    "bytes": 31108,
+    "sha256": "7f173eb383083b156d0e55e699b5201ae7fce832774cbda28ef3e470218c2635"
+  }
+]
