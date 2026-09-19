@@ -43,6 +43,12 @@
   },
   {
     "key": "memoryLandscape",
+    "path": "landscapes/memory-landscape-v3.webp",
+    "bytes": 396594,
+    "sha256": "aa6dc18c4f6237c45330fac7a4d4b647366e2263d5856519d6119aefbfaae68c"
+  },
+  {
+    "key": "memoryLandscapeMobile",
     "path": "landscapes/memory-landscape-v2.webp",
     "bytes": 729496,
     "sha256": "a26e233b25df7e3980716a4191ff2eb74ac1ac49f6b118991c263e280d433c98"
